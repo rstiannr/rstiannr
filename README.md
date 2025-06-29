@@ -15,7 +15,7 @@
       </td>
     </tr>
     <tr>
-      <td width="20%" align="center" style="border: 2px solid rgba(255, 105, 180, 0.5);">
+      <td align="center" style="border: 2px solid rgba(255, 105, 180, 0.5);">
         <img height="150" src="https://i.pinimg.com/originals/5e/e0/cb/5ee0cbb531b8fab27efccf073e075965.gif" alt="cute gif" />
       </td>
       <td width="80%" align="left" style="border: 2px solid rgba(255, 105, 180, 0.5);">
@@ -93,7 +93,9 @@
 
   <br><br>
 
-<div align="left">  
+<div align="center">  
+  <b>My contributions diagrams with pacman gengs</b>
+      <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rstiannr/rstiannr/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rstiannr/rstiannr/output/pacman-contribution-graph.svg">
@@ -103,7 +105,7 @@
 </div>
 
 <div align="center">
-  <em>✨ "Every expert was once a beginner. Every pro was once an amateur." ✨</em>
+  <em type= bold >✨ "Every expert was once a beginner. Every pro was once an amateur." ✨</em>
     <br><br>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=rstiannr.rstiannr&left_color=deeppink&right_color=darkgrey&left_text=Visitors" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=rstiannr.rstiannr&left_color=deeppink&right_color=darkgrey&left_text=Visitors"/>
 </div>
