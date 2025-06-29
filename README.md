@@ -8,9 +8,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/5e/e0/cb/5ee0cbb531b8fab27efccf073e075965.gif"  />
-</div>
+<img align="left" height="200" src="https://i.pinimg.com/originals/5e/e0/cb/5ee0cbb531b8fab27efccf073e075965.gif"  />
 
 ###
 
