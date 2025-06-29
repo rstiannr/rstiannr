@@ -27,7 +27,7 @@
             <li>💻 Front-end development</li>
             <li>🎨 UI/UX design</li>
           </ul> 
-       <p>Check out my portfolio to see my projects and learn more about my skills and experience:</p>   
+       <p>Check out my portfolio to see my projects more detail: </p>   
        <p align="left">
           <a href="https://spectrum-resolution-3e6.notion.site/Digital-Portfolio-21fd805f6a4a806697b8fa3f1b17b39b?source=copy_link">
             <img src="https://img.shields.io/badge/Click%20in%20here-FF69B4?style=for-the-badge&logo=cursor&logoColor=white" alt="Click in here" />
