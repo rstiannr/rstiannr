@@ -105,7 +105,7 @@
 </div>
 
 <div align="center">
-  <em type= bold >✨ "Every expert was once a beginner. Every pro was once an amateur." ✨</em>
+  <em type= bold >✨ "bro, take a nap before ur code take ur life" ✨</em>
     <br><br>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=rstiannr.rstiannr&left_color=deeppink&right_color=darkgrey&left_text=Visitors"/>
 </div>
