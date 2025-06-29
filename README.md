@@ -1,4 +1,6 @@
-<h1 align="center">Hellooww</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I+Am+Resti+Anggraini+%E2%9C%A8;Seeking+Internship+Opportunities;Data+Analytics+Enthusiast;Front-End+%26+Mobile+App+Design+Learner" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -16,7 +18,7 @@
 
 ###
 
-<p align="left">Usually people call me, Resti! I am 2nd year student majoring in Information Systems at Universitas Pembangunan Nasional "Veteran" Jawa Timur. In my studies, I’ve developed an interest about data analysis, front-end development, and design. Looking ahead, I’m excited to advance my knowledge in data analysis, as I see it becoming a central focus of my career.</p>
+<p align="left">Usually people call me, Resti! I am 2nd year student majoring in Information Systems at Universitas Pembangunan Nasional "Veteran" Jawa Timur. In my studies, I've developed an interest about data analysis, front-end development, and design. Looking ahead, I'm excited to advance my knowledge in data analysis, as I see it becoming a central focus of my career.</p>
 
 ###
 
