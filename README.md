@@ -57,10 +57,6 @@
       <img width="15" />
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo" title="TailwindCSS" />
       <img width="15" />
-      <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy logo" title="NumPy" />
-      <img width="15" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" title="C++" />
-      <img width="15" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo" title="PHP" />
     </td>
   </tr>
@@ -73,8 +69,6 @@
   <tr>
     <td colspan="2" align="left" style="border: 2px solid rgba(255, 105, 180, 0.5); padding: 15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="visualstudio logo" title="VS Code" />
-      <img width="15" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="visualstudio logo" title="Visual Studio" />
       <img width="15" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo" title="Android Studio" />
       <img width="15" />
