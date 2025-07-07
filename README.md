@@ -66,6 +66,7 @@
       <h3 style="margin: 0;">Tools</h3>
     </td>
   </tr>
+  
   <tr>
     <td colspan="2" align="left" style="border: 2px solid rgba(255, 105, 180, 0.5); padding: 15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="visualstudio logo" title="VS Code" />
@@ -81,6 +82,7 @@
       <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="45" alt="kaggle logo" title="Kaggle" />
     </td>
   </tr>
+  
   </table>
   
 </div>
