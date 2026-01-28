@@ -20,12 +20,12 @@
         <img height="150" width="150" src="https://i.pinimg.com/originals/9a/2e/3d/9a2e3dd3f3dc79b9da3bd0ee11d347b3.gif" alt="confused gif" />
       </td>
       <td align="left" style=" solid rgba(255, 105, 180, 0.5); width: fit-content; height: fit-content;">
-        <p>Usually people call me, <strong>Resti</strong>! I am a 2nd year student majoring in <em>Information Systems</em> at Universitas Pembangunan Nasional "Veteran" Jawa Timur.</p>
+        <p>Usually people call me, <strong>Resti</strong>! I am a 3nd year student majoring in <em>Information Systems</em> at Universitas Pembangunan Nasional "Veteran" Jawa Timur.</p>
         <p>In my studies, I've developed a passion for:</p>
           <ul style="text-align: left; display: inline-block;">
-            <li>📊 Data analysis & visualization</li>
-            <li>💻 Front-end development</li>
-            <li>🎨 UI/UX design</li>
+            <li>💻 Machine Learning</li>
+            <li>📊 Data Analysis & Visualization</li>
+            <li>🌐 Website Development</li>
           </ul> 
        <p>Check out my portfolio to see my projects more detail: </p>   
        <p align="left">
